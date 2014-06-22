@@ -1,4 +1,4 @@
-# Program to create tidy dataset from Human Activity Recognition Using Smartphones Dataset provided by coursera for project work of course Getting and Cleaning data.
+### Program to create tidy dataset from Human Activity Recognition Using Smartphones Dataset provided by coursera for project work of course Getting and Cleaning data.
 
 ## R scripts.
 
